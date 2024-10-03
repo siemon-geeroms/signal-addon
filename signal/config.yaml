@@ -1,7 +1,7 @@
 ---
 name: Signal Messenger
 url: https://github.com/siemon.geeroms/signal-addon/tree/master/
-version: 021365b
+version: dev
 slug: signal_messenger
 arch:
   - aarch64
